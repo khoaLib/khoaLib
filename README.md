@@ -1,6 +1,12 @@
 ### Hi there 👋, I'm Khoa
 <br>
-
+- 🔭 I’m currently working on Front-End for a business website
+- 🌱 I’m currently learning NodeJS and ReactJS
+- 👯 I’m looking to collaborate on Website related project
+- 💬 Ask me about everything!! I love to talk to people 🥳
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I read a lot of fiction novels sometime.
 
 
 <!--
@@ -14,6 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: ...
 -->
