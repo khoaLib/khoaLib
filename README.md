@@ -8,7 +8,7 @@
 * 😄 Pronouns: He/his
 * ⚡ Fun fact: I read a lot of fiction novels sometime.
 * 📫 How to reach me: ...
-* 
+
 
 <!--
 **khoaLib/khoaLib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
